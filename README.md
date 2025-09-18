@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Pacheco Bianchini  
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec.  
-Tenho experiência em **C#, ASP.NET Core, PostgreSQL, React** e **JavaScript**, sempre focado em backend e boas práticas de arquitetura.  
+Tenho experiência em **C#, .NET, SQL, React** e **JavaScript**, sempre focado em backend e boas práticas de arquitetura.  
 Aberto a aprender novas linguagens e tecnologias.  
 
 ---
