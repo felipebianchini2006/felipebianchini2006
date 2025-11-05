@@ -1,18 +1,19 @@
-# 👋 Olá, eu sou o Felipe Pacheco Bianchini  
+# Olá,
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec.  
-Tenho experiência em **C#, .NET, SQL, React** e **JavaScript**, sempre focado em backend e boas práticas de arquitetura.  
-Aberto a aprender novas linguagens e tecnologias.  
+Tenho experiência em **C#, .NET, SQL, NOSQL, React**, **JavaScript** e **Docker**.
+Sempre aberto a aprender novas tecnologias.  
 
 ---
 
-## 🚀 Projetos Principais
+## Projetos Principais
 - **GranjaTech** — Sistema web para gestão de granjas de corte.  
-- **Cardápio Web Delivery** — TCC voltado para cardápios digitais de pequenas lanchonetes e restaurantes.  
+- **Cardápio Web Delivery** — TCC voltado para cardápios digitais de pequenas lanchonetes e restaurantes.
+- **Bibliotech** - Sistema web de uma biblioteca utilizando Java Spring Boot. 
 
 ---
 
-## 🛠️ Habilidades  
+## Habilidades  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) 
@@ -27,8 +28,6 @@ Aberto a aprender novas linguagens e tecnologias.
 ![Docker](https://img.shields.io/badge/docker-4169e1?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-**Construindo soluções completas:** da modelagem de dados ao backend escalável e frontends modernos.  
 
 ---
 
