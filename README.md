@@ -39,4 +39,4 @@ Sempre aberto a aprender novas tecnologias.
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://br.linkedin.com/in/felipe-pacheco-bianchini-699b25331)  
-📧 Email: **felipebianchini02@gmail.com**  
+Email: **felipebianchini02@gmail.com**  
