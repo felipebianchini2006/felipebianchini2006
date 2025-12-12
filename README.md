@@ -6,13 +6,6 @@ Sempre aberto a aprender novas tecnologias.
 
 ---
 
-## Projetos Principais
-- **GranjaTech** — Sistema web para gestão de granjas de corte.  
-- **Cardápio Web Delivery** — TCC voltado para cardápios digitais de pequenas lanchonetes e restaurantes.
-- **Bibliotech** - Sistema web de uma biblioteca utilizando Java Spring Boot. 
-
----
-
 ## Habilidades  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
